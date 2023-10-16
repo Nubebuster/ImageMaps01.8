@@ -1,7 +1,7 @@
 main: de.craftlancer.imagemaps.ImageMaps
 author: SydMontague
 version: ${project.version}
-name: ImageMaps
+name: ImageMaps-1.8
 commands:
     imagemap:
         usage: |
